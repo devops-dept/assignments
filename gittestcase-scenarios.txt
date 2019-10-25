@@ -1,0 +1,26 @@
+
+
+Assignments:
+
+pre-hooks example :
+
+Shell script /python
+Find
+.jar
+.zip
+.tar
+
+Found .jar file , hence skipping
+Exit
+
+
+webhook example assignment:
+Ruby:
+
+https://raw.githubusercontent.com/quickfixtech/git-server/master/webhook.rb
+
+Python :
+   Webhook sample code 
+
+Java:
+   Webhook sample code
