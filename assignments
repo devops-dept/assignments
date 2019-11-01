@@ -14,3 +14,4 @@ Mvn clean install sonar:sonar
 
 https://github.com/quickfixtech/sonar/blob/master/stepto%20setupsonar
 
+5. create jenkins agent through cloud plugin from jenkins
