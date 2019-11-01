@@ -2,3 +2,15 @@
 
 2. E-mail Notification: Send mail through notification
 
+
+3. parallel tasks in jenkinsfile assignment:
+https://github.com/quickfixtech/jenkinsfile/blob/master/parallel-jenkinsfile
+
+
+4. sonarqube setup assignment:
+
+Sonarqube
+Mvn clean install sonar:sonar
+
+https://github.com/quickfixtech/sonar/blob/master/stepto%20setupsonar
+
