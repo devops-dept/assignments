@@ -15,3 +15,8 @@ Mvn clean install sonar:sonar
 https://github.com/quickfixtech/sonar/blob/master/stepto%20setupsonar
 
 5. create jenkins agent through cloud plugin from jenkins
+
+6. Auto boot-up the nexus service and sonarqube service
+7. Godaddy or route 53 domains to integrate with Jenkins /Nexus/sonarqube.
+8. Sonar-scanner /sonar-runner
+
